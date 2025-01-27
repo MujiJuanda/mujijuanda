@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: mujijuanda # Ganti dengan username GitHub-mu
+          github_user_name: MujiJuanda # Ganti dengan username GitHub-mu
           outputs: dist/snake.svg
 
       - name: Push Snake Animation to the repository
