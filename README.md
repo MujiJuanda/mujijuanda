@@ -1,4 +1,3 @@
-## Hi! It's Me Juanda
 <h1 align="center">Hi 👋, I'm Muji Juanda Saputra</h1>
 <h3 align="center">A passionate developer from Aceh, always learning and focused on completing tasks. I aspire to become one of the many senior experts in the field.</h3>
 
@@ -49,5 +48,6 @@
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=mujijuanda&bg_color=0d1017&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true" alt="mujijuanda" /></p>
+
 ![GitHub Snake Animation](https://github.com/mujijuanda/mujijuanda/blob/output/snake.svg)
 
