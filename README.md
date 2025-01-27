@@ -49,6 +49,5 @@
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=mujijuanda&bg_color=0d1017&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true" alt="mujijuanda" /></p>
-
 ![GitHub Snake Animation](https://github.com/mujijuanda/mujijuanda/blob/output/snake.svg)
 
