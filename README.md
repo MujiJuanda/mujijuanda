@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **building a Linux kernel**
 
-- 🌱 I’m currently learning **Flutter, SEO, Machine Learning, and Linux Kernel Development**
+- 🌱 I’m currently learning **Flutter, SEO, Machine Learning, UI/UX Design and Linux Kernel Development**
 
-- 👯 I’m looking to collaborate on **startup projects, operating systems, and final project proposals**
+- 👯 I’m looking to collaborate on **startup projects, operating systems, Prototype Figma and final project proposals**
 
 - 💬 Ask me about **HTML, UI/UX Design (Figma), Python, and Flutter**
 
-- 📫 How to reach me **mujijuanda2005@gmail.com**
+- 📫 How to reach me **mujijuandasaputra@gmail.com**
 
 - ⚡ Fun fact **I enjoy revisiting even the basics because they are fascinating to me.**
 
@@ -48,6 +48,4 @@
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=mujijuanda&bg_color=0d1017&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true" alt="mujijuanda" /></p>
-
-![GitHub Snake Animation](https://github.com/mujijuanda/mujijuanda/blob/output/snake.svg)
 
